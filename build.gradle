@@ -53,3 +53,4 @@ publishing {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
